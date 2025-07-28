@@ -32,7 +32,7 @@ Have your report or suggestions here!
       <div class="text-side">
         <h1>What We're About</h1>
         <p>
-          Ventrai was built by a 12-year-old with one powerful idea: make mentorship accessible to everyone. Whether you're just getting started or looking for guidance, this platform helps connect students with mentors in a space that's safe, simple, and real. It's about learning from someone who's already been there, no pressure, just progress.
+          Ventrai was started by a 12-year-old with one powerful idea: make mentorship accessible to everyone. Whether you're just getting started or looking for guidance, this platform helps connect students with mentors in a space that's safe, simple, and real. It's about learning from someone who's already been there, no pressure, just progress.
         </p>
       </div>
       <div class="image-side">
